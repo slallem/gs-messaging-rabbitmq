@@ -8,6 +8,8 @@ This guide walks you through the process of setting up a RabbitMQ AMQP server th
 publishes and subscribes to messages and creating a Spring Boot application to interact
 with that RabbitMQ server.
 
+SLA20191130
+
 == What You Will Build
 
 You will build an application that publishes a message by using Spring AMQP's
